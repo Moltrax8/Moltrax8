@@ -26,7 +26,6 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 ### 🛡️ Cybersecurity Skills
 - **CTF Experience:** Successfully completed various labs on **Hackviser**.
 - **Foundational Knowledge:** Network Security, Cryptography, and Linux Systems.
-- **Current Training:** Bilim Erzurum Cyber Security Program.
 
 ---
 
