@@ -9,8 +9,8 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Engineering** (Year 1).
 - 🛡️ Actively participating in **Cybersecurity Trainings**.
-- 🧩 **INTJ**: I enjoy building long-term strategies and solving complex architectural problems.
-- 🦁 **Leo**: Ambitious, driven, and always aiming for the top of the leaderboard.
+- 🧩 I enjoy building long-term strategies and solving complex architectural problems.
+- 🦁 Ambitious, driven, and always aiming for the top of the leaderboard.
 - ⚡ I spend my free time solving CTFs and exploring low-level systems.
 
 ---
