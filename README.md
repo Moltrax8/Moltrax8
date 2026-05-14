@@ -30,23 +30,14 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 ---
 
 ## 📊 GitHub Stats & Activity
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vision-friendly-dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Moltrax8]&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Moltrax8]&show_icons=true&theme=vision-friendly-dark) |
 | :--- | :--- |
 
 ---
 
-## 📂 Featured Projects
-> *“In security, complexity is the enemy.”*
-
-- 🛡️ **[Project Name]** - A short description of a script or tool you built.
-- 🚩 **[CTF Writeups]** - Documentation of my solutions for Hackviser and other platforms.
-- ⚙️ **[Uni-Labs]** - Collection of my Computer Engineering coursework and algorithms.
-
----
-
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR-LINKEDIN-URL])
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)]([YOUR-THM-URL])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moltrax/)
+[![Hackviser](https://img.shields.io/badge/Hackviser-%231A2B3C.svg?style=for-the-badge&logo=target&logoColor=%2300FF00)](https://app.hackviser.com/profile/Moltrax8)
 
 ---
 *“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.”*
