@@ -34,13 +34,6 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moltrax8&layout=compact&theme=vision-friendly-dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moltrax8&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true) |
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moltrax8&theme=vision-friendly-dark)
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moltrax/)
 [![Hackviser](https://img.shields.io/badge/Hackviser-%231A2B3C.svg?style=for-the-badge&logo=target&logoColor=%2300FF00)](https://app.hackviser.com/profile/Moltrax8)
