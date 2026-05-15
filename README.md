@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohammadamin]! 🛡️ 💻
+# Hi there, I'm Mohammadamin! 🛡️ 💻
 
 ### Computer Engineering Student | Cybersecurity Enthusiast | Strategic Thinker
 
