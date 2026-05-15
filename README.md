@@ -23,6 +23,11 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### 🌱 Currently Learning
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ### 🛡️ Cybersecurity Skills
 - **CTF Experience:** Successfully completed various labs on **Hackviser**.
 - **Foundational Knowledge:** Network Security, Cryptography, and Linux Systems.
