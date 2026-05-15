@@ -36,7 +36,6 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moltrax/)
-[![Hackviser](https://img.shields.io/badge/Hackviser-%231A2B3C.svg?style=for-the-badge&logo=target&logoColor=%2300FF00)](https://app.hackviser.com/profile/Moltrax8)
 
 ---
 *“Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.”*
