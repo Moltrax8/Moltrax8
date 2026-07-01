@@ -7,7 +7,7 @@ I am a first-year **Computer Engineering** student with a deep interest in the w
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying **Computer Engineering** (Year 1).
+- 🎓 Currently studying **Computer Engineering** (Year 2).
 - 🛡️ Actively participating in **Cybersecurity Trainings**.
 - 🧩 I enjoy building long-term strategies and solving complex architectural problems.
 - 🦁 Ambitious, driven, and always aiming for the top of the leaderboard.
