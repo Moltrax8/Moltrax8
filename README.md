@@ -50,6 +50,6 @@ Actively competing with **AltaySec / AltayCTF**, demonstrating expertise across 
 
 <div align="center">
   📫 <b>Connect with me:</b> <br>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_CTFTIME_URL"><img src="https://img.shields.io/badge/CTFtime-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTFtime"></a>
+  <a href=[https://www.linkedin.com/in/moltrax](https://www.linkedin.com/in/moltrax)><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href=[https://ctftime.org/team/431443]><img src="https://img.shields.io/badge/CTFtime-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTFtime"></a>
 </div>
