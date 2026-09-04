@@ -55,8 +55,7 @@ Actively competing with **AltaySec / AltayCTF**, demonstrating expertise across 
 *   **[GameHub](#)** - A Node.js-based login-gated hub that reverse-proxies multiple containerized multiplayer game servers.
 *   **[Sentrax](#)** - A secure, single-owner Telegram bot designed for privileged remote VPS administration, including shell execution and firewall management.
 
-#### Mobile & Cross-Platform Utilities
-*   **[DailyHub](#)** - A native Android productivity application built with Kotlin and Jetpack Compose, featuring complex task routing, subtasks, recurrence, and workout tracking.
+#### Cross-Platform Utilities
 *   **[Molt](#)** - A .NET 8 / Avalonia cross-platform utility designed to flash mobile devices between Android and Linux distributions (Ubuntu Touch, postmarketOS).
 
 ---
