@@ -10,10 +10,8 @@ I am a Computer Engineering student specializing in full-stack architecture, sys
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moltrax8&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
 </div>
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub handle to activate the live stats).*
 
 ### 🛠️ Technical Arsenal
 
