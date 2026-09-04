@@ -42,19 +42,9 @@ Actively competing with **AltaySec / AltayCTF**, demonstrating expertise across 
 
 ---
 
-### 💻 Engineered Systems & Projects
+### 💻 Featured Project
 
-#### Systems & Low-Level Development
-*   **[OmniTrax](#)** - A highly optimized local "second brain" vault system engineered in Rust.
-*   **[MoltraxCheatEngine](#)** - A Win32 process-memory editor and scanner built with C++17, Dear ImGui, and DX11, featuring advanced value, AOB, and pointer scanning.
-
-#### Backend Infrastructure & Automation
-*   **[Traxport](#)** - A high-throughput Telegram media downloading bot utilizing Python, aiogram 3, Celery, PostgreSQL, and Redis, with integrated tiered monetization via Telegram Stars.
-*   **[GameHub](#)** - A Node.js-based login-gated hub that reverse-proxies multiple containerized multiplayer game servers.
-*   **[Sentrax](#)** - A secure, single-owner Telegram bot designed for privileged remote VPS administration, including shell execution and firewall management.
-
-#### Cross-Platform Utilities
-*   **[Molt](#)** - A .NET 8 / Avalonia cross-platform utility designed to flash mobile devices between Android and Linux distributions (Ubuntu Touch, postmarketOS).
+*   **[DailyHub](#)** - A native Android productivity application built with Kotlin and Jetpack Compose. Engineered to handle complex task routing, subtasks, recurrence, and workout tracking, providing a seamless, cross-functional mobile experience.
 
 ---
 
