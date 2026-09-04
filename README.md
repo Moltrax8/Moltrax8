@@ -9,7 +9,7 @@
 I am a Computer Engineering student specializing in full-stack architecture, systems-level programming, and practical cybersecurity. With a proven track record in global Capture The Flag (CTF) competitions, I approach software engineering with a security-first mindset—building scalable infrastructure while simultaneously understanding how to dismantle and reverse-engineer complex systems.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moltrax8&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moltrax8&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" width="48%" />
 </div>
 
