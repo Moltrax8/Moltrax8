@@ -44,7 +44,7 @@ Actively competing with **AltaySec / AltayCTF**, demonstrating expertise across 
 
 ### 💻 Featured Project
 
-*   **[DailyHub](#)** - A native Android productivity application built with Kotlin and Jetpack Compose. Engineered to handle complex task routing, subtasks, recurrence, and workout tracking, providing a seamless, cross-functional mobile experience.
+*   **[[DailyHub]](https://github.com/Moltrax8/Dailyhub)(#)** - A native Android productivity application built with Kotlin and Jetpack Compose. Engineered to handle complex task routing, subtasks, recurrence, and workout tracking, providing a seamless, cross-functional mobile experience.
 
 ---
 
